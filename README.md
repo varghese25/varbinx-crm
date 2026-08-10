@@ -1,7 +1,6 @@
-# Varbinx
+# Varbinx-1
 
-### One Platform. Multiple Business Capabilities. Built for Every Domain.
-
+### One Platform. Any Domain.
 **Varbinx** is a modular, scalable, and domain-agnostic business management platform currently in the **prototype stage**.
 
 The product is initially being developed as a **Customer Relationship Management (CRM)** platform, with a long-term vision of evolving into a unified business ecosystem that brings together **CRM, ERP, Inventory Management, Human Resource Management, and Payment Management** within a single platform.
