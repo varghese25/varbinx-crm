@@ -431,6 +431,8 @@ As the platform progresses, this repository will document the evolution of the p
 
 ---
 
+# Taiga.io
+
 # 📄 License
 
 License information will be added as the project progresses.
