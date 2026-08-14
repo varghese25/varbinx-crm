@@ -18,19 +18,11 @@ body {
   width: 380px;
   padding: 40px;
 
-  background: white;
+  background: #ffffff;
 
   border-radius: 12px;
 
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
-}
-
-.logo {
-  text-align: center;
-}
-
-.logo h1 {
-  margin-bottom: 5px;
 }
 
 .tagline {
@@ -67,8 +59,8 @@ button {
   border: none;
   border-radius: 6px;
 
-  background: #222;
-  color: white;
+  background: black;
+  color: #fff;
 
   font-size: 16px;
 
@@ -77,4 +69,18 @@ button {
 
 button:hover {
   background: #444;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+  
+}
+
+.logo img {
+    width: 299px;
+    height: auto;
 }
